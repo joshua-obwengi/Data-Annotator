@@ -15,7 +15,8 @@ COCO, Pascal VOC, JSON, CSV, XML
 
 🌍 Based in: Nairobi, Kenya 
 📫 Email: joshuaobwengi@gmail.com
-🔗 LinkedIn: linkedin.com/in/joshuaobwengi
+🔗 LinkedIn: https://www.linkedin.com/in/joshuaobwengi/
+📱 Schedule a call via calendly: https://calendly.com/joshuaobwengi/
 
 🎯 Detail-oriented, accuracy-driven, and passionate about supporting AI development with reliable, clean data.
 
