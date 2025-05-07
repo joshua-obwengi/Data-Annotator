@@ -21,4 +21,4 @@ COCO, Pascal VOC, JSON, CSV, XML
 🎯 Detail-oriented, accuracy-driven, and passionate about supporting AI development with reliable, clean data.
 
 ⚽ Fun Facts:
-When I’m not annotating, I love staying up-to-date with the latest in AI, exploring SEO trends, and spending time outdoors.
+I’m a big fan of football ⚽ and long weekend hikes.
